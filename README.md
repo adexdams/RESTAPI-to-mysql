@@ -2,6 +2,10 @@
 
 This project demonstrates my ability to design and implement a complete **ETL data pipeline** using Python, external APIs, and a relational database system.
 
+<p align="center">
+  <img src="images/image-01.png" width="50%"/>
+</p>
+
 ### 🧠 What I Built
 - A modular ETL pipeline that:
   - **Extracts** real-world football statistics from a public REST API (API-Football)
