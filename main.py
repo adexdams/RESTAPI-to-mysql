@@ -13,7 +13,7 @@ RAPIDAPI_KEY = os.getenv('RAPIDAPI_KEY')
 # Setup API request headers to authenticate requests
 headers = {
     "x-rapidapi-host": "api-football-v1.p.rapidapi.com",
-	"x-rapidapi-key": "68db8a1851mshdfe816b38fc74efp13fbccjsn8b9a2dfe615b"
+	"x-rapidapi-key": RAPIDAPI_KEY
 }
 
 # Setup API URL and parameters
