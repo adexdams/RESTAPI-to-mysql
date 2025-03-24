@@ -1,0 +1,19 @@
+# .gitignore
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
